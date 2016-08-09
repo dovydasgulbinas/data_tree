@@ -103,3 +103,12 @@ ENV/
 # Rope project settings
 .ropeproject
 
+.idea
+
+.idea/dictionaries/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/tree_project.iml
+.idea/workspace.xml
+
